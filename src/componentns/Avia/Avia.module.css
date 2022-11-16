@@ -1,0 +1,33 @@
+.wrapper {
+    width: 1200px;
+    height: 565px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.findForm {
+    width: 963px;
+    height: 186px;
+    box-shadow: 0 0 14px rgba(112, 121, 153, 0.3);
+    border-radius: 15px;
+}
+
+.inputWrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 85px;
+    /*background: rgba(92, 135, 219, 1);*/
+    padding: 20px 15px 0 15px;
+    border-radius: 15px 15px 0 0;
+}
+
+.input {
+    width: 208px;
+    height: 40px;
+}
+
+.fieldBlock {
+    width: 209px;
+}
